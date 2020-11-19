@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="caf7f517-6c24-4d08-8d73-a7b1b00fb509" name="Default Changelist" comment="menu">
-      <change afterPath="$PROJECT_DIR$/build/img/pattern10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/logo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/logo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/pattern10.png" afterDir="false" />
+    <list default="true" id="caf7f517-6c24-4d08-8d73-a7b1b00fb509" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/styles/sectionHero.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/img/logo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/logo1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
@@ -36,6 +32,11 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\serhii-ovsianykov-jazzguitarist\src\img" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605783734548</updated>
-      <workItem from="1605783736672" duration="24965000" />
+      <workItem from="1605783736672" duration="28307000" />
     </task>
     <task id="LOCAL-00001" summary="TWO">
       <created>1605792249986</created>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605819524007</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="menuFinish">
+      <created>1605822256035</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605822256035</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,13 +98,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TWO" />
     <MESSAGE value="menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu" />
+    <MESSAGE value="menuFinish" />
+    <option name="LAST_COMMIT_MESSAGE" value="menuFinish" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="20" key="CommitChangelistDialog2" timestamp="1605819557799">
+    <state x="585" y="20" key="CommitChangelistDialog2" timestamp="1605822254826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="20" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605819557799" />
+    <state x="585" y="20" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605822254826" />
     <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605819565818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
