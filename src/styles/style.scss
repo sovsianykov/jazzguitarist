@@ -9,9 +9,39 @@
   color: color('base');
 }
 .text-secondary {
+  color: color('special');
+}
+a {
+  display: block;
+  text-decoration: none;
   color: color('base');
 }
 
 h1 {
-  font-family: 'Droid Sans', 'Droid Serif';
+  font-family: 'Monserrat';
+}
+body {
+  font-size: 13px;
+  color: rgb(85, 85, 85);
+  background: url("../img/bg1.jpg");
+  line-height: 1;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+header {
+  .container {
+    a {
+    {
+      span [
+      ]
+    }
+    }
+  }
 }

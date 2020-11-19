@@ -1,7 +1,7 @@
 
 WebFont.load({
     google: {
-        families: ['Droid Sans', 'Droid Serif' , 'Open Sans', 'Montserrat ' , 'oto sans']
+        families: ['Droid Sans', 'Droid Serif' , 'Open+Sans:700&amp;subset latin', 'Montserrat:400 ' , 'Noto+sans:400']
     }
 });
 
