@@ -1,0 +1,17 @@
+* {
+  padding: 10px ;
+  margin: 0;
+  box-sizing: border-box;
+}
+@import "./variables";
+@import "./maps";
+.text-primary {
+  color: color('base');
+}
+.text-secondary {
+  color: color('base');
+}
+
+h1 {
+  font-family: 'Droid Sans', 'Droid Serif';
+}

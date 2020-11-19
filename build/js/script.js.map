@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["WebFont","load","google","families"],"mappings":"AACAA,QAAQC,KAAK,CACTC,OAAQ,CACJC,SAAU,CAAC,aAAc,cAAgB,YAAa,cAAgB","file":"script.js","sourcesContent":["\r\nWebFont.load({\r\n    google: {\r\n        families: ['Droid Sans', 'Droid Serif' , 'Open Sans', 'Montserrat ' , 'oto sans']\r\n    }\r\n});\r\n\r\n\r\n"]}
