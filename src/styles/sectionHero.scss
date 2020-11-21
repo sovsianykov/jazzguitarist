@@ -1,26 +1,75 @@
 section#hero {
   width: 100%;
-  min-height: 980px;
+  min-height: 630px;
   .container {
+    display: flex;
     max-width: 1170px;
     height: 100%;
     margin: 0 auto;
 
     padding: 0 30px;
   .left {
-    max-width: 640px;
+    max-width: 90%;
     height: 100%;
-    padding: 5px;
+    //padding: 5px;
     .imgWrapFrame {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
       background: #f5fcfc;
       border: 1px solid #292929;
 
-      padding: 15px;
-      width: 472px;
-      height: 620px;
+      border: 10px solid #ffffff;
+      max-width: 992px;
+      height: 630px;
       overflow: hidden;
     }
   }
+
+  }
+  aside {
+    width: 10%;
+    height: 100%;
+    padding-left:20px ;
+    color: #b3c9db;
+    font-family: "Open Sans",sans-serif;
+    .textwidget {
+
+
+    p {
+      a {
+        font-size: 1.1em;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 500;
+        letter-spacing: 0.0em;
+        color: #b3c9db;
+
+        &:hover {
+          color: #5b6667;
+        }
+
+
+      }
+    }
+
+
+
+    }
+    .follow_me {
+      margin-top: 40px;
+       .icWrapp {
+         width: 50px;
+         height: 50px;
+         background: #b3c9db;
+         border-radius: 5px;
+         box-shadow: 1px 1px 7px #000000;
+         &:hover {
+           color: #5b6667;
+         }
+
+
+       }
+    }
 
   }
 

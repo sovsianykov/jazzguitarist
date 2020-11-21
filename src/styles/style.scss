@@ -6,9 +6,11 @@
 @import "./variables";
 @import "./maps";
 @import "./sectionHero";
+@import "./all";
 img {
   display: block;
   height: 100%;
+  position: center;
 }
 .text-primary {
   color: color('base');
@@ -40,6 +42,10 @@ body {
   display: table;
   clear: both;
 }
+//img {
+//  display: block;
+//  width: 100%;
+//}
 
 header {
   .container {
@@ -51,9 +57,10 @@ header {
      display: inline-block;
      max-width: 700px;
      height: 100px;
-     img {
-       height: 100%;
-     }
+     //img {
+     //  display: block;
+     //  width: 100%;
+     //}
 
      a {
 
