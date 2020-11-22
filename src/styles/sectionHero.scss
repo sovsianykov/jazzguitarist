@@ -1,3 +1,5 @@
+
+
 section#hero {
   width: 100%;
   min-height: 630px;
@@ -58,17 +60,27 @@ section#hero {
     .follow_me {
       margin-top: 40px;
        .icWrapp {
-         width: 50px;
-         height: 50px;
+         margin-top: 20px;
+         padding-bottom: 20px;
          i {
+           letter-spacing: 0;
            color: #8c9caa;
+           font-size:5em;
+           border-radius: 5px;
+           text-shadow: 1px 1px 7px #000000;
+           margin-bottom: 10px;
+
+           &:hover {
+             color: #5b6667;
+           }
+
+
+
+
+
          }
          
-         border-radius: 5px;
-         box-shadow: 1px 1px 7px #000000;
-         &:hover {
-           color: #5b6667;
-         }
+
 
 
        }
